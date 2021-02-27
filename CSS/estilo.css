@@ -4,3 +4,8 @@ b{
 body{
     background-color: purple;
 }
+.banner{
+    width: auto;
+    height: 100px;
+    background-color: pink;
+}
